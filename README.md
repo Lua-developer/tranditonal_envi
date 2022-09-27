@@ -5,7 +5,8 @@ https://daondaum.modoo.at/
 ## 프로토타입 및 시제품 개발 기간  
 2022년07월23일 ~ 2022년09월 (현재 진행중)  
 1인 개발(Front, Back)  
-서비스 런칭 예정 10월 중
+서비스 런칭 예정 10월 중. 
+SSL 인증서 적용
 ## 개발 환경
 Tool : Visual Studio Code  
 FrameWork : Laravel(php)  
