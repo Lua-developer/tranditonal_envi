@@ -1,6 +1,6 @@
 # 전통환경
 ## URL
-http://daondaump1.com  
+https://daondaump1.com  
 https://daondaum.modoo.at/
 ## 프로토타입 및 시제품 개발 기간  
 2022년07월23일 ~ 2022년09월 (현재 진행중)  
