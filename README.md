@@ -4,14 +4,16 @@ https://daondaump1.com
 https://daondaum.modoo.at/
 ## 프로토타입 및 시제품 개발 기간  
 2022년07월23일 ~ 2022년09월 (시제품 개발 완료 및 오픈 준비)  
-광교 아이파크 입점 예정( 10월 중 )
-SSL 인증서 적용
+광교 아이파크 입점 예정( 10월 중 )  
+SSL 인증서 적용  
 ## 개발 환경
 Tool : Visual Studio Code  
 FrameWork : Laravel(php)  
 Front end : JS, HTML5  
-DB : MySQL 8.0.2
-Payment : KakaoPay, Danal Card
+DB : MySQL 8.0.2. 
+Payment : KakaoPay, Danal Card.  
+Main OS : Windows server 2019, Ubuntu 20.04 교체예정.  
+DB backup server.  
 # 주요 기능
 반응형 웹 개발(APP 확장 고려)  
 로그인 / 회원가입(정규식 사용) / ID / PASSWORD 분실 찾기  
