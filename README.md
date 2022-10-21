@@ -10,7 +10,7 @@ SSL 인증서 적용
 Tool : Visual Studio Code  
 FrameWork : Laravel(php)  
 Front end : JS, HTML5  
-DB : MySQL 8.0.2. 
+DB : MySQL Server 8.0.2  
 Payment : KakaoPay, Danal Card.  
 Main OS : Windows server 2019
 DB backup server.  
