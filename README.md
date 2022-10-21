@@ -67,3 +67,6 @@ DB 튜닝
 결제 내역 조회    
 이전 이용 내역 조회  
 마이 페이지  
+### Web  
+![실행](https://user-images.githubusercontent.com/83262616/197216629-b87fa147-8d09-4761-8626-565647b92f40.JPG)
+![실행2](https://user-images.githubusercontent.com/83262616/197216641-dfc74281-83c0-4247-87b4-a5b53cb9f2eb.JPG)
