@@ -4,7 +4,7 @@ https://daondaump1.com
 https://daondaum.modoo.at/
 ## 프로토타입 및 시제품 개발 기간  
 2022년07월23일 ~ 2022년09월  
-SSL 인증서 적용  
+SSL 인증서 적용 및 https 리다이렉트 적용  
 10월 계약 만료 및 개발 종료  
 ## 개발 환경
 Tool : Visual Studio Code  
