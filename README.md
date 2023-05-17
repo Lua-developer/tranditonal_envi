@@ -6,6 +6,7 @@ https://daondaum.modoo.at/
 2022년07월23일 ~ 2022년09월  
 SSL 인증서 적용 및 https 리다이렉트 적용  
 10월 계약 만료 및 개발 종료  
+외주 개발인 관계로 소스 코드를 공개 할 수 없는 점 양해 부탁드립니다.  
 ## 개발 환경
 Tool : Visual Studio Code  
 FrameWork : Laravel(php)  
